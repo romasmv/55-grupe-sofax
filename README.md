@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/55-grupe-sofax
+Site published at: https://romasmv.github.io/55-grupe-sofax/
 
 Design: !https://sofaxdevhtml.netlify.app/contact-us
 
@@ -50,7 +50,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/front-end-by-rimantas/55-grupe-sofax.git
+   git clone https://github.com/romasmv/55-grupe-sofax.git
    ```
 2. Install NPM packages
    ```sh
@@ -71,10 +71,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Povilas: [Github](https://github.com/PovDai)
-Rimgaudas: [Github](https://github.com/RimgaudasGreenhat)
-Ernest: [Github](https://github.com/splatt141)
-Vitalij: [Github](https://github.com/helltah)
+Roman: https://github.com/romasmv 
 
 ## ⚠️ License
 
